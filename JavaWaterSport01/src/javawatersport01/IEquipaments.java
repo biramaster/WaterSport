@@ -3,6 +3,7 @@ package javawatersport;
 /**
  *
  * @author André Rubira at biramaster001
+ * @author Rubira at biramaster
  * @version 2013.11.10
  */
 public interface IEquipaments {
