@@ -1,4 +1,4 @@
-package javawatersport;
+package javawatersport01;
 
 /**
  *
